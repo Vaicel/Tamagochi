@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tamogochi</string>
+    <string name="feed">Накормить</string>
+    <string name="hygiene">Почистить</string>
+    <string name="play">Играть</string>
+</resources>
